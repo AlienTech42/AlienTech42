@@ -39,7 +39,7 @@ If you're new to Unraid, this will save you hours of frustration and help you av
 
 Join the community:
 
-👉 Discord: (your invite link here)
+👉 Discord: https://discord.gg/kst8fMPx4t
 
 This is the best place to:
 - Ask questions  
@@ -52,7 +52,7 @@ This is the best place to:
 
 If you want to go deeper:
 
-👉 Patreon: (your link here)
+👉 Patreon: https://www.patreon.com/AlienTech42
 
 Get:
 - Early access to videos  
