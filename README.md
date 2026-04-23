@@ -8,7 +8,8 @@ I create step-by-step tutorials focused on Unraid, Docker, and self-hosted setup
 
 ## 📂 What You'll Find Here
 
-- Ready-to-use config files from my videos  
+- Ready-to-use config files from my videos
+- A growing list of container templates 
 - Clean, beginner-friendly setups  
 - Real working examples (not just theory)
 
